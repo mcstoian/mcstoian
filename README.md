@@ -1,1 +1,1 @@
-Interests: P=NP, crypto, quantum computers
+Interests: quantum computers
